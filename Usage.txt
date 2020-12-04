@@ -1,1 +1,2 @@
 Encrypted.mMimsimwomImOAPOQPEMDNXImxmkdmkwmojkKMKmuNUnUBtvTVrceXEcyHIjokOkOKokOKOKokoa.api.key.encryption
+usage.allow(custom.language="guyencryption")
